@@ -1,5 +1,6 @@
 # AdatB_beadando
 Beadandó feladat az Adatbázisok tantárgyhoz, választott feladat: 1. 
+
 Csoporttagok: Szente Bálint, Borsos Benedek, Palatin Simon
 
 Az adatbázist SQLite-ban terveztük meg, és az adatok forrása a Kaggle volt. Összesen 6 darab CSV-fájlból importáltuk a Premier League bajnokság kiválasztott mérkőzéseinek adatait. Az eredeti adatok méretét csökkentettük, illetve generatív mesterséges intelligencia segítségével életszerű statisztikákat egészítettünk ki az elemzések megkönnyítése érdekében.
