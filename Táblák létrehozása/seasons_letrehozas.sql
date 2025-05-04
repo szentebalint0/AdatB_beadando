@@ -1,0 +1,5 @@
+CREATE TABLE seasons (
+	season_id INTEGER PRIMARY KEY,
+	season TEXT NOT NULL
+			UNIQUE
+);
